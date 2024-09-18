@@ -1,0 +1,4 @@
+-The report and the scripts are divided into 4 points (A,B,C,D), each for one phase of the project.
+-For each step, just run the "SLAM_#_EKF" script in each folder.
+-To change dataset just edit the string "dataset" present at the beginning of the script.
+--The datasets available for each point are present in the respective folders (take the latter as a reference).
